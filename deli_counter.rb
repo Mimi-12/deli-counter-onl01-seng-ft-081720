@@ -1,9 +1,11 @@
 
 def line("katz_deli")
-puts "The line is currently empty."
+line.each do |"katz_deli"|
+  puts "katz_deli"
 end
 
 def take_a_number
+
 end
 
 def now_serving
